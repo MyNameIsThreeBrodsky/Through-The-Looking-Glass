@@ -37,6 +37,9 @@ p {
 footer {
   text-align: center;
 }
+strong {
+  font-size: 2em;
+}
 .centerPicture {
   margin: 0 auto;
   display: block;
@@ -52,4 +55,16 @@ footer {
 }
 .centerPoemChapterOne {
   text-align: center;
+}
+.centerPoemChapterFour {
+  text-align: center;
+}
+.pageBreak {
+  text-align: center;
+  letter-spacing: .3em;
+}
+.poemBox {
+  
+  width: 350px;
+  font-style: italic;
 }
