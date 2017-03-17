@@ -1,5 +1,55 @@
+h1 {
+  padding-top: 50px;
+  letter-spacing: 0.3em;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: lighter;
+}
+h3 {
+  padding-top: 15px;
+  text-align: center;
+
+}
+h4 {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: lighter;
+  letter-spacing: .2em;
+  margin-top: -10px;
+}
+nav {
+  padding-top: 10px;
+}
+ol {
+  list-style-type: none;
+  margin: 0 auto;
+  padding: 0px;
+  width: 255px;
+  line-height: 2em;
+}
+a {
+  text-decoration: none;
+}
 p {
   margin-left: 100px;
   margin-right: 100px;
-  color: blue;
+}
+footer {
+  text-align: center;
+}
+.centerPicture {
+  margin: 0 auto;
+  display: block;
+}
+.centerChapter {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  font-weight: lighter;
+}
+.chapterSpace {
+  padding-top: 25px;
+}
+.centerPoemChapterOne {
+  text-align: center;
 }
