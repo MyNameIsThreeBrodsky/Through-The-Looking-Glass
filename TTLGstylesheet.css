@@ -5,10 +5,15 @@ h1 {
   text-transform: uppercase;
   font-weight: lighter;
 }
+h2 {
+  padding-top: 30px;
+  letter-spacing: .2em;
+  text-align: center;
+  font-weight: lighter;
+}
 h3 {
   padding-top: 15px;
   text-align: center;
-
 }
 h4 {
   text-align: center;
@@ -24,7 +29,7 @@ ol {
   list-style-type: none;
   margin: 0 auto;
   padding: 0px;
-  width: 255px;
+  width: 256px;
   line-height: 2em;
 }
 a {
@@ -75,7 +80,12 @@ strong {
   border: none;
   color: white;
   text-align: center;
-  border-radius: 8px;
   font-size: 10px;
-  padding; 15px 30px;
+  padding; 30px 50px;
+  display: inline-block;
+
+}
+
+.extraSpaceForShortChapters {
+  padding-top: 200px;
 }
